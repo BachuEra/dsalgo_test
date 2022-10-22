@@ -1,0 +1,179 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>20/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Oct 21 14:17:27 EDT 2022</td>
+</tr>
+<tr><td>Total time:</td><td>89 seconds (89144 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='Testcases.ArrayTest.arrayPracQ()'><b>arrayPracQ</b><br>Test class: Testcases.ArrayTest<br>Parameters: print('Hello, Testing array pages...')</td>
+<td></td>
+<td>2</td>
+<td>Testcases.ArrayTest@2c9399a4</td></tr>
+<tr>
+<td title='Testcases.ArrayTest.arraybasiuc()'><b>arraybasiuc</b><br>Test class: Testcases.ArrayTest<br>Parameters: print('Hello, Testing array pages...')</td>
+<td></td>
+<td>7</td>
+<td>Testcases.ArrayTest@2c9399a4</td></tr>
+<tr>
+<td title='Testcases.GraphpageTest.GraphpreQ()'><b>GraphpreQ</b><br>Test class: Testcases.GraphpageTest<br>Parameters: print('Hello, Testing Graphpages...')</td>
+<td></td>
+<td>4</td>
+<td>Testcases.GraphpageTest@191ae03f</td></tr>
+<tr>
+<td title='Testcases.loginpagetest.loginTestdd()'><b>loginTestdd</b><br>Test class: Testcases.loginpagetest<br>Parameters: xyzabc123, nobody@123</td>
+<td></td>
+<td>6</td>
+<td>Testcases.loginpagetest@3f4faf53</td></tr>
+<tr>
+<td title='Testcases.GraphpageTest.arrayTest()'><b>arrayTest</b><br>Test class: Testcases.GraphpageTest<br>Parameters: print('Hello, Testing Graphpages...')</td>
+<td></td>
+<td>5</td>
+<td>Testcases.GraphpageTest@191ae03f</td></tr>
+<tr>
+<td title='Testcases.DatastructureTest.arrayTest()'><b>arrayTest</b><br>Test class: Testcases.DatastructureTest<br>Parameters: print('Hello, Testing datastructure pages...')</td>
+<td></td>
+<td>9</td>
+<td>Testcases.DatastructureTest@6c67e137</td></tr>
+<tr>
+<td title='Testcases.HomepageTest.ArrGetstarted()'><b>ArrGetstarted</b><br>Test class: Testcases.HomepageTest</td>
+<td></td>
+<td>0</td>
+<td>Testcases.HomepageTest@5ac86ba5</td></tr>
+<tr>
+<td title='Testcases.HomepageTest.GraphGetstarted()'><b>GraphGetstarted</b><br>Test class: Testcases.HomepageTest</td>
+<td></td>
+<td>0</td>
+<td>Testcases.HomepageTest@5ac86ba5</td></tr>
+<tr>
+<td title='Testcases.ArrayTest.arrayList()'><b>arrayList</b><br>Test class: Testcases.ArrayTest<br>Parameters: print('Hello, Testing array pages...')</td>
+<td></td>
+<td>2</td>
+<td>Testcases.ArrayTest@2c9399a4</td></tr>
+<tr>
+<td title='Testcases.HomepageTest.TestDropDown()'><b>TestDropDown</b><br>Test class: Testcases.HomepageTest</td>
+<td></td>
+<td>3</td>
+<td>Testcases.HomepageTest@5ac86ba5</td></tr>
+<tr>
+<td title='Testcases.LandingPageTest.landingtest()'><b>landingtest</b><br>Test class: Testcases.LandingPageTest</td>
+<td></td>
+<td>0</td>
+<td>Testcases.LandingPageTest@302c971f</td></tr>
+<tr>
+<td title='Testcases.GraphpageTest.Graphres()'><b>Graphres</b><br>Test class: Testcases.GraphpageTest<br>Parameters: print('Hello, Testing Graphpages...')</td>
+<td></td>
+<td>2</td>
+<td>Testcases.GraphpageTest@191ae03f</td></tr>
+<tr>
+<td title='Testcases.HomepageTest.GSGetstarted()'><b>GSGetstarted</b><br>Test class: Testcases.HomepageTest</td>
+<td></td>
+<td>0</td>
+<td>Testcases.HomepageTest@5ac86ba5</td></tr>
+<tr>
+<td title='Testcases.RegistrationPageTest$RegistrationTest.registrationTestdd()'><b>registrationTestdd</b><br>Test class: Testcases.RegistrationPageTest$RegistrationTest<br>Parameters: 5da92569, nobody@123</td>
+<td></td>
+<td>2</td>
+<td>Testcases.RegistrationPageTest$RegistrationTest@2a693f59</td></tr>
+<tr>
+<td title='Testcases.HomepageTest.TestClickRegister()'><b>TestClickRegister</b><br>Test class: Testcases.HomepageTest</td>
+<td></td>
+<td>3</td>
+<td>Testcases.HomepageTest@5ac86ba5</td></tr>
+<tr>
+<td title='Testcases.ArrayTest.arrayTest()'><b>arrayTest</b><br>Test class: Testcases.ArrayTest<br>Parameters: print('Hello, Testing array pages...')</td>
+<td></td>
+<td>9</td>
+<td>Testcases.ArrayTest@2c9399a4</td></tr>
+<tr>
+<td title='Testcases.HomepageTest.TestClickSignin()'><b>TestClickSignin</b><br>Test class: Testcases.HomepageTest</td>
+<td></td>
+<td>1</td>
+<td>Testcases.HomepageTest@5ac86ba5</td></tr>
+<tr>
+<td title='Testcases.DatastructureTest.DatastruPracQ()'><b>DatastruPracQ</b><br>Test class: Testcases.DatastructureTest</td>
+<td></td>
+<td>7</td>
+<td>Testcases.DatastructureTest@6c67e137</td></tr>
+<tr>
+<td title='Testcases.loginpagetest.Loginsucess()'><b>Loginsucess</b><br>Test class: Testcases.loginpagetest</td>
+<td></td>
+<td>0</td>
+<td>Testcases.loginpagetest@3f4faf53</td></tr>
+<tr>
+<td title='Testcases.ArrayTest.arrayapp()'><b>arrayapp</b><br>Test class: Testcases.ArrayTest<br>Parameters: print('Hello, Testing array pages...')</td>
+<td></td>
+<td>6</td>
+<td>Testcases.ArrayTest@2c9399a4</td></tr>
+</table><p>
+</body>
+</html>

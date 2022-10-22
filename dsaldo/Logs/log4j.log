@@ -1,0 +1,226 @@
+[INFO ] 2022-10-14 10:51:27.092 [main] LandingPageTest - We are in Landing Page
+[INFO ] 2022-10-14 10:53:47.839 [main] Loggerclass - arraydropdown clicked
+[INFO ] 2022-10-14 10:53:47.870 [main] Loggerclass - Linked Listdropdown clicked
+[INFO ] 2022-10-14 10:53:47.896 [main] Loggerclass - Stackdropdown clicked
+[INFO ] 2022-10-14 10:53:47.919 [main] Loggerclass - Queuedropdown clicked
+[INFO ] 2022-10-14 10:53:47.941 [main] Loggerclass - Treedropdown clicked
+[INFO ] 2022-10-14 10:53:47.963 [main] Loggerclass - Graphdropdown clicked
+[INFO ] 2022-10-14 10:53:47.992 [main] Loggerclass - dropdown closed
+[INFO ] 2022-10-14 10:53:52.285 [main] Loggerclass - Went to registration page
+[INFO ] 2022-10-14 10:53:53.496 [main] Loggerclass - Went to login page
+[INFO ] 2022-10-16 18:04:57.748 [main] Loggerclass - We are in Landing Page
+[INFO ] 2022-10-16 18:05:14.885 [main] Loggerclass - arraydropdown clicked
+[INFO ] 2022-10-16 18:05:14.906 [main] Loggerclass - Linked Listdropdown clicked
+[INFO ] 2022-10-16 18:05:14.917 [main] Loggerclass - Stackdropdown clicked
+[INFO ] 2022-10-16 18:05:14.953 [main] Loggerclass - Queuedropdown clicked
+[INFO ] 2022-10-16 18:05:14.975 [main] Loggerclass - Treedropdown clicked
+[INFO ] 2022-10-16 18:05:14.998 [main] Loggerclass - Graphdropdown clicked
+[INFO ] 2022-10-16 18:05:15.028 [main] Loggerclass - dropdown closed
+[INFO ] 2022-10-16 18:05:19.137 [main] Loggerclass - Went to registration page
+[INFO ] 2022-10-16 18:05:20.326 [main] Loggerclass - Went to login page
+[INFO ] 2022-10-17 08:53:55.262 [main] Loggerclass - We are in Landing Page
+[INFO ] 2022-10-17 08:54:12.355 [main] Loggerclass - arraydropdown clicked
+[INFO ] 2022-10-17 08:54:12.379 [main] Loggerclass - Linked Listdropdown clicked
+[INFO ] 2022-10-17 08:54:12.402 [main] Loggerclass - Stackdropdown clicked
+[INFO ] 2022-10-17 08:54:12.429 [main] Loggerclass - Queuedropdown clicked
+[INFO ] 2022-10-17 08:54:12.452 [main] Loggerclass - Treedropdown clicked
+[INFO ] 2022-10-17 08:54:12.474 [main] Loggerclass - Graphdropdown clicked
+[INFO ] 2022-10-17 08:54:12.501 [main] Loggerclass - dropdown closed
+[INFO ] 2022-10-17 08:54:16.636 [main] Loggerclass - Went to registration page
+[INFO ] 2022-10-17 08:54:17.820 [main] Loggerclass - Went to login page
+[INFO ] 2022-10-17 10:35:22.390 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-17 10:35:56.594 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-17 10:57:39.449 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-17 10:59:58.464 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 11:00:03.149 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 11:00:08.817 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 11:00:13.524 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 11:01:25.746 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-17 11:04:01.010 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-17 11:11:56.523 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-17 11:11:58.230 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-17 11:11:59.793 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-17 11:12:01.343 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-17 11:12:02.962 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-17 11:12:04.513 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-17 11:12:06.068 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-17 19:26:02.719 [main] Loggerclass - We are in Landing Page
+[INFO ] 2022-10-17 19:26:20.299 [main] Loggerclass - arraydropdown clicked
+[INFO ] 2022-10-17 19:26:20.325 [main] Loggerclass - Linked Listdropdown clicked
+[INFO ] 2022-10-17 19:26:20.357 [main] Loggerclass - Stackdropdown clicked
+[INFO ] 2022-10-17 19:26:20.378 [main] Loggerclass - Queuedropdown clicked
+[INFO ] 2022-10-17 19:26:20.407 [main] Loggerclass - Treedropdown clicked
+[INFO ] 2022-10-17 19:26:20.439 [main] Loggerclass - Graphdropdown clicked
+[INFO ] 2022-10-17 19:26:20.473 [main] Loggerclass - dropdown closed
+[INFO ] 2022-10-17 19:26:25.047 [main] Loggerclass - Went to registration page
+[INFO ] 2022-10-17 19:26:26.262 [main] Loggerclass - Went to login page
+[INFO ] 2022-10-17 19:26:35.434 [main] Loggerclass - inside text area Datastructure
+[INFO ] 2022-10-17 19:26:54.853 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 19:26:59.636 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 19:27:05.450 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 19:27:10.205 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 19:39:08.127 [main] Loggerclass - We are in Landing Page
+[INFO ] 2022-10-17 19:39:23.657 [main] Loggerclass - arraydropdown clicked
+[INFO ] 2022-10-17 19:39:23.680 [main] Loggerclass - Linked Listdropdown clicked
+[INFO ] 2022-10-17 19:39:23.708 [main] Loggerclass - Stackdropdown clicked
+[INFO ] 2022-10-17 19:39:23.731 [main] Loggerclass - Queuedropdown clicked
+[INFO ] 2022-10-17 19:39:23.759 [main] Loggerclass - Treedropdown clicked
+[INFO ] 2022-10-17 19:39:23.782 [main] Loggerclass - Graphdropdown clicked
+[INFO ] 2022-10-17 19:39:23.811 [main] Loggerclass - dropdown closed
+[INFO ] 2022-10-17 19:39:27.962 [main] Loggerclass - Went to registration page
+[INFO ] 2022-10-17 19:39:29.113 [main] Loggerclass - Went to login page
+[INFO ] 2022-10-17 19:39:37.168 [main] Loggerclass - inside text area Datastructure
+[INFO ] 2022-10-17 19:39:55.003 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 19:39:59.603 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 19:40:05.139 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 19:40:09.704 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 19:43:48.197 [main] Loggerclass - We are in Landing Page
+[INFO ] 2022-10-17 19:44:04.743 [main] Loggerclass - arraydropdown clicked
+[INFO ] 2022-10-17 19:44:04.767 [main] Loggerclass - Linked Listdropdown clicked
+[INFO ] 2022-10-17 19:44:04.781 [main] Loggerclass - Stackdropdown clicked
+[INFO ] 2022-10-17 19:44:04.813 [main] Loggerclass - Queuedropdown clicked
+[INFO ] 2022-10-17 19:44:04.840 [main] Loggerclass - Treedropdown clicked
+[INFO ] 2022-10-17 19:44:04.865 [main] Loggerclass - Graphdropdown clicked
+[INFO ] 2022-10-17 19:44:04.897 [main] Loggerclass - dropdown closed
+[INFO ] 2022-10-17 19:44:09.119 [main] Loggerclass - Went to registration page
+[INFO ] 2022-10-17 19:44:10.299 [main] Loggerclass - Went to login page
+[INFO ] 2022-10-17 19:44:18.530 [main] Loggerclass - inside text area Datastructure
+[INFO ] 2022-10-17 19:44:36.247 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 19:44:40.798 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 19:44:46.390 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-17 19:44:50.974 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 08:28:19.332 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 08:28:23.913 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 08:28:29.510 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 08:28:34.076 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 08:28:49.067 [main] Loggerclass - inside text area Datastructure
+[INFO ] 2022-10-18 08:29:18.782 [main] Loggerclass - arraydropdown clicked
+[INFO ] 2022-10-18 08:29:18.803 [main] Loggerclass - Linked Listdropdown clicked
+[INFO ] 2022-10-18 08:29:18.829 [main] Loggerclass - Stackdropdown clicked
+[INFO ] 2022-10-18 08:29:18.854 [main] Loggerclass - Queuedropdown clicked
+[INFO ] 2022-10-18 08:29:18.878 [main] Loggerclass - Treedropdown clicked
+[INFO ] 2022-10-18 08:29:18.905 [main] Loggerclass - Graphdropdown clicked
+[INFO ] 2022-10-18 08:29:18.937 [main] Loggerclass - dropdown closed
+[INFO ] 2022-10-18 08:29:23.046 [main] Loggerclass - Went to registration page
+[INFO ] 2022-10-18 08:29:24.227 [main] Loggerclass - Went to login page
+[INFO ] 2022-10-18 08:29:25.748 [main] Loggerclass - We are in Landing Page
+[INFO ] 2022-10-18 08:29:29.873 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 08:29:31.548 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 08:29:33.189 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 08:29:34.758 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 08:29:36.340 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 08:29:37.940 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 08:29:39.512 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 08:30:10.130 [main] Loggerclass - arraydropdown clicked
+[INFO ] 2022-10-18 08:30:10.167 [main] Loggerclass - Linked Listdropdown clicked
+[INFO ] 2022-10-18 08:30:10.195 [main] Loggerclass - Stackdropdown clicked
+[INFO ] 2022-10-18 08:30:10.222 [main] Loggerclass - Queuedropdown clicked
+[INFO ] 2022-10-18 08:30:10.246 [main] Loggerclass - Treedropdown clicked
+[INFO ] 2022-10-18 08:30:10.271 [main] Loggerclass - Graphdropdown clicked
+[INFO ] 2022-10-18 08:30:10.301 [main] Loggerclass - dropdown closed
+[INFO ] 2022-10-18 08:30:15.065 [main] Loggerclass - Went to registration page
+[INFO ] 2022-10-18 08:30:16.249 [main] Loggerclass - Went to login page
+[INFO ] 2022-10-18 08:31:07.321 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 08:31:11.945 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 08:31:17.593 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 08:31:22.222 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 08:31:37.265 [main] Loggerclass - inside text area Datastructure
+[INFO ] 2022-10-18 08:32:06.121 [main] Loggerclass - arraydropdown clicked
+[INFO ] 2022-10-18 08:32:06.148 [main] Loggerclass - Linked Listdropdown clicked
+[INFO ] 2022-10-18 08:32:06.173 [main] Loggerclass - Stackdropdown clicked
+[INFO ] 2022-10-18 08:32:06.194 [main] Loggerclass - Queuedropdown clicked
+[INFO ] 2022-10-18 08:32:06.215 [main] Loggerclass - Treedropdown clicked
+[INFO ] 2022-10-18 08:32:06.237 [main] Loggerclass - Graphdropdown clicked
+[INFO ] 2022-10-18 08:32:06.263 [main] Loggerclass - dropdown closed
+[INFO ] 2022-10-18 08:32:10.430 [main] Loggerclass - Went to registration page
+[INFO ] 2022-10-18 08:32:11.616 [main] Loggerclass - Went to login page
+[INFO ] 2022-10-18 08:32:13.186 [main] Loggerclass - We are in Landing Page
+[INFO ] 2022-10-18 08:32:17.326 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 08:32:18.968 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 08:32:20.574 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 08:32:22.137 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 08:32:23.723 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 08:32:25.315 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 08:32:26.888 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 08:32:43.200 [main] Loggerclass - We are in Landing Page
+[INFO ] 2022-10-18 08:33:00.584 [main] Loggerclass - arraydropdown clicked
+[INFO ] 2022-10-18 08:33:00.606 [main] Loggerclass - Linked Listdropdown clicked
+[INFO ] 2022-10-18 08:33:00.632 [main] Loggerclass - Stackdropdown clicked
+[INFO ] 2022-10-18 08:33:00.656 [main] Loggerclass - Queuedropdown clicked
+[INFO ] 2022-10-18 08:33:00.681 [main] Loggerclass - Treedropdown clicked
+[INFO ] 2022-10-18 08:33:00.709 [main] Loggerclass - Graphdropdown clicked
+[INFO ] 2022-10-18 08:33:00.743 [main] Loggerclass - dropdown closed
+[INFO ] 2022-10-18 08:33:05.030 [main] Loggerclass - Went to registration page
+[INFO ] 2022-10-18 08:33:06.212 [main] Loggerclass - Went to login page
+[INFO ] 2022-10-18 08:33:14.711 [main] Loggerclass - inside text area Datastructure
+[INFO ] 2022-10-18 08:33:32.745 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 08:33:37.367 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 08:33:42.906 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 08:33:47.497 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 09:13:33.882 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 09:13:38.459 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 09:13:43.987 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 09:13:48.536 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 09:14:03.262 [main] Loggerclass - inside text area Datastructure
+[INFO ] 2022-10-18 09:14:31.555 [main] Loggerclass - arraydropdown clicked
+[INFO ] 2022-10-18 09:14:31.574 [main] Loggerclass - Linked Listdropdown clicked
+[INFO ] 2022-10-18 09:14:31.590 [main] Loggerclass - Stackdropdown clicked
+[INFO ] 2022-10-18 09:14:31.623 [main] Loggerclass - Queuedropdown clicked
+[INFO ] 2022-10-18 09:14:31.649 [main] Loggerclass - Treedropdown clicked
+[INFO ] 2022-10-18 09:14:31.674 [main] Loggerclass - Graphdropdown clicked
+[INFO ] 2022-10-18 09:14:31.704 [main] Loggerclass - dropdown closed
+[INFO ] 2022-10-18 09:14:35.826 [main] Loggerclass - Went to registration page
+[INFO ] 2022-10-18 09:14:37.005 [main] Loggerclass - Went to login page
+[INFO ] 2022-10-18 09:14:38.498 [main] Loggerclass - We are in Landing Page
+[INFO ] 2022-10-18 09:14:42.424 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 09:14:43.995 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 09:14:45.589 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 09:14:47.146 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 09:14:48.695 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 09:14:50.265 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 09:14:51.789 [main] Loggerclass - inside text area LinkedList Pages
+[INFO ] 2022-10-18 09:15:42.959 [main] Loggerclass - We are in Landing Page
+[INFO ] 2022-10-18 09:15:59.433 [main] Loggerclass - arraydropdown clicked
+[INFO ] 2022-10-18 09:15:59.454 [main] Loggerclass - Linked Listdropdown clicked
+[INFO ] 2022-10-18 09:15:59.470 [main] Loggerclass - Stackdropdown clicked
+[INFO ] 2022-10-18 09:15:59.502 [main] Loggerclass - Queuedropdown clicked
+[INFO ] 2022-10-18 09:15:59.527 [main] Loggerclass - Treedropdown clicked
+[INFO ] 2022-10-18 09:15:59.548 [main] Loggerclass - Graphdropdown clicked
+[INFO ] 2022-10-18 09:15:59.581 [main] Loggerclass - dropdown closed
+[INFO ] 2022-10-18 09:16:03.805 [main] Loggerclass - Went to registration page
+[INFO ] 2022-10-18 09:16:04.987 [main] Loggerclass - Went to login page
+[INFO ] 2022-10-18 09:16:13.243 [main] Loggerclass - inside text area Datastructure
+[INFO ] 2022-10-18 09:16:31.480 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 09:16:36.111 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 09:16:41.668 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 09:16:46.234 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 17:19:41.495 [main] Loggerclass - We are in Landing Page
+[INFO ] 2022-10-18 17:19:57.797 [main] Loggerclass - arraydropdown clicked
+[INFO ] 2022-10-18 17:19:57.812 [main] Loggerclass - Linked Listdropdown clicked
+[INFO ] 2022-10-18 17:19:57.828 [main] Loggerclass - Stackdropdown clicked
+[INFO ] 2022-10-18 17:19:57.861 [main] Loggerclass - Queuedropdown clicked
+[INFO ] 2022-10-18 17:19:57.883 [main] Loggerclass - Treedropdown clicked
+[INFO ] 2022-10-18 17:19:57.904 [main] Loggerclass - Graphdropdown clicked
+[INFO ] 2022-10-18 17:19:57.933 [main] Loggerclass - dropdown closed
+[INFO ] 2022-10-18 17:20:02.015 [main] Loggerclass - Went to registration page
+[INFO ] 2022-10-18 17:20:03.178 [main] Loggerclass - Went to login page
+[INFO ] 2022-10-18 17:20:11.464 [main] Loggerclass - inside text area Datastructure
+[INFO ] 2022-10-18 17:20:29.370 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 17:20:34.023 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 17:20:39.677 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-18 17:20:44.287 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-21 14:17:32.637 [main] Loggerclass - We are in Landing Page
+[INFO ] 2022-10-21 14:17:48.993 [main] Loggerclass - arraydropdown clicked
+[INFO ] 2022-10-21 14:17:49.012 [main] Loggerclass - Linked Listdropdown clicked
+[INFO ] 2022-10-21 14:17:49.037 [main] Loggerclass - Stackdropdown clicked
+[INFO ] 2022-10-21 14:17:49.060 [main] Loggerclass - Queuedropdown clicked
+[INFO ] 2022-10-21 14:17:49.084 [main] Loggerclass - Treedropdown clicked
+[INFO ] 2022-10-21 14:17:49.106 [main] Loggerclass - Graphdropdown clicked
+[INFO ] 2022-10-21 14:17:49.132 [main] Loggerclass - dropdown closed
+[INFO ] 2022-10-21 14:17:53.232 [main] Loggerclass - Went to registration page
+[INFO ] 2022-10-21 14:17:54.416 [main] Loggerclass - Went to login page
+[INFO ] 2022-10-21 14:18:02.917 [main] Loggerclass - inside text area Datastructure
+[INFO ] 2022-10-21 14:18:20.909 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-21 14:18:25.479 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-21 14:18:31.120 [main] Loggerclass - inside text area Array Pages
+[INFO ] 2022-10-21 14:18:35.723 [main] Loggerclass - inside text area Array Pages

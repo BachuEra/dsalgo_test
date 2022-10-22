@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [dsalgo]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="Testcases.RegistrationPageTest$RegistrationTest">
+        <methods>
+          <include name="initialization"/>
+          <include name="teardown"/>
+          <include name="signout"/>
+          <include name="registrationTestdd" invocation-numbers="0"/>
+          <include name="successregistration"/>
+        </methods>
+      </class> <!-- Testcases.RegistrationPageTest$RegistrationTest -->
+      <class name="Testcases.loginpagetest">
+        <methods>
+          <include name="initialization"/>
+          <include name="Loginsucess"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- Testcases.loginpagetest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [dsalgo] -->

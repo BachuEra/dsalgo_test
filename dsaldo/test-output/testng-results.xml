@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-21T14:17:27 EDT" name="dsalgo" finished-at="2022-10-21T14:18:56 EDT" duration-ms="89144">
+    <groups>
+    </groups>
+    <test started-at="2022-10-21T14:17:27 EDT" name="Test" finished-at="2022-10-21T14:18:56 EDT" duration-ms="89144">
+      <class name="Testcases.HomepageTest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:Testcases.HomepageTest@5ac86ba5]" started-at="2022-10-21T14:17:44 EDT" name="initialization" finished-at="2022-10-21T14:17:45 EDT" duration-ms="1206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="TestDropDown()[pri:1, instance:Testcases.HomepageTest@5ac86ba5]" started-at="2022-10-21T14:17:45 EDT" name="TestDropDown" finished-at="2022-10-21T14:17:49 EDT" duration-ms="3266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDropDown -->
+        <test-method signature="GSGetstarted()[pri:2, instance:Testcases.HomepageTest@5ac86ba5]" started-at="2022-10-21T14:17:49 EDT" name="GSGetstarted" finished-at="2022-10-21T14:17:49 EDT" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GSGetstarted -->
+        <test-method signature="ArrGetstarted()[pri:3, instance:Testcases.HomepageTest@5ac86ba5]" started-at="2022-10-21T14:17:49 EDT" name="ArrGetstarted" finished-at="2022-10-21T14:17:49 EDT" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ArrGetstarted -->
+        <test-method signature="GraphGetstarted()[pri:7, instance:Testcases.HomepageTest@5ac86ba5]" started-at="2022-10-21T14:17:49 EDT" name="GraphGetstarted" finished-at="2022-10-21T14:17:49 EDT" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GraphGetstarted -->
+        <test-method signature="TestClickRegister()[pri:8, instance:Testcases.HomepageTest@5ac86ba5]" started-at="2022-10-21T14:17:49 EDT" name="TestClickRegister" finished-at="2022-10-21T14:17:53 EDT" duration-ms="3322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestClickRegister -->
+        <test-method signature="TestClickSignin()[pri:9, instance:Testcases.HomepageTest@5ac86ba5]" started-at="2022-10-21T14:17:53 EDT" name="TestClickSignin" finished-at="2022-10-21T14:17:54 EDT" duration-ms="1174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestClickSignin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.HomepageTest@5ac86ba5]" started-at="2022-10-21T14:17:54 EDT" name="teardown" finished-at="2022-10-21T14:17:54 EDT" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.HomepageTest -->
+      <class name="Testcases.DatastructureTest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:Testcases.DatastructureTest@6c67e137]" started-at="2022-10-21T14:17:54 EDT" name="initialization" finished-at="2022-10-21T14:17:55 EDT" duration-ms="1274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="arrayTest(java.lang.String)[pri:1, instance:Testcases.DatastructureTest@6c67e137]" started-at="2022-10-21T14:17:55 EDT" name="arrayTest" data-provider="codeInput1" finished-at="2022-10-21T14:18:05 EDT" duration-ms="9230" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print('Hello, Testing datastructure pages...')]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrayTest -->
+        <test-method signature="DatastruPracQ()[pri:2, instance:Testcases.DatastructureTest@6c67e137]" started-at="2022-10-21T14:18:05 EDT" name="DatastruPracQ" finished-at="2022-10-21T14:18:12 EDT" duration-ms="7376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DatastruPracQ -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.DatastructureTest@6c67e137]" started-at="2022-10-21T14:18:12 EDT" name="teardown" finished-at="2022-10-21T14:18:12 EDT" duration-ms="299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.DatastructureTest -->
+      <class name="Testcases.RegistrationPageTest$RegistrationTest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:Testcases.RegistrationPageTest$RegistrationTest@2a693f59]" started-at="2022-10-21T14:17:32 EDT" name="initialization" finished-at="2022-10-21T14:17:33 EDT" duration-ms="1112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="registrationTestdd(java.lang.String,java.lang.String)[pri:0, instance:Testcases.RegistrationPageTest$RegistrationTest@2a693f59]" started-at="2022-10-21T14:17:33 EDT" name="registrationTestdd" data-provider="testdata" finished-at="2022-10-21T14:17:36 EDT" duration-ms="2195" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5da92569]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nobody@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationTestdd -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.RegistrationPageTest$RegistrationTest@2a693f59]" started-at="2022-10-21T14:17:36 EDT" name="teardown" finished-at="2022-10-21T14:17:36 EDT" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.RegistrationPageTest$RegistrationTest -->
+      <class name="Testcases.GraphpageTest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:Testcases.GraphpageTest@191ae03f]" started-at="2022-10-21T14:18:42 EDT" name="initialization" finished-at="2022-10-21T14:18:43 EDT" duration-ms="1094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="arrayTest(java.lang.String)[pri:1, instance:Testcases.GraphpageTest@191ae03f]" started-at="2022-10-21T14:18:43 EDT" name="arrayTest" data-provider="codeInput2" finished-at="2022-10-21T14:18:49 EDT" duration-ms="5963" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print('Hello, Testing Graphpages...')]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrayTest -->
+        <test-method signature="Graphres(java.lang.String)[pri:2, instance:Testcases.GraphpageTest@191ae03f]" started-at="2022-10-21T14:18:49 EDT" name="Graphres" data-provider="codeInput2" finished-at="2022-10-21T14:18:52 EDT" duration-ms="2561" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print('Hello, Testing Graphpages...')]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Graphres -->
+        <test-method signature="GraphpreQ(java.lang.String)[pri:3, instance:Testcases.GraphpageTest@191ae03f]" started-at="2022-10-21T14:18:52 EDT" name="GraphpreQ" data-provider="codeInput2" finished-at="2022-10-21T14:18:56 EDT" duration-ms="4353" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print('Hello, Testing Graphpages...')]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GraphpreQ -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.GraphpageTest@191ae03f]" started-at="2022-10-21T14:18:56 EDT" name="teardown" finished-at="2022-10-21T14:18:56 EDT" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.GraphpageTest -->
+      <class name="Testcases.loginpagetest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:Testcases.loginpagetest@3f4faf53]" started-at="2022-10-21T14:17:36 EDT" name="initialization" finished-at="2022-10-21T14:17:37 EDT" duration-ms="1018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="loginTestdd(java.lang.String,java.lang.String)[pri:2, instance:Testcases.loginpagetest@3f4faf53]" started-at="2022-10-21T14:17:37 EDT" name="loginTestdd" data-provider="testdata" finished-at="2022-10-21T14:17:43 EDT" duration-ms="6225" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyzabc123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nobody@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestdd -->
+        <test-method signature="Loginsucess()[pri:3, instance:Testcases.loginpagetest@3f4faf53]" started-at="2022-10-21T14:17:43 EDT" name="Loginsucess" finished-at="2022-10-21T14:17:44 EDT" duration-ms="933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginsucess -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.loginpagetest@3f4faf53]" started-at="2022-10-21T14:17:44 EDT" name="teardown" finished-at="2022-10-21T14:17:44 EDT" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.loginpagetest -->
+      <class name="Testcases.ArrayTest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:Testcases.ArrayTest@2c9399a4]" started-at="2022-10-21T14:18:12 EDT" name="initialization" finished-at="2022-10-21T14:18:13 EDT" duration-ms="1111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="arrayTest(java.lang.String)[pri:1, instance:Testcases.ArrayTest@2c9399a4]" started-at="2022-10-21T14:18:13 EDT" name="arrayTest" data-provider="codeInput" finished-at="2022-10-21T14:18:23 EDT" duration-ms="9175" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print('Hello, Testing array pages...')]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrayTest -->
+        <test-method signature="arrayList(java.lang.String)[pri:2, instance:Testcases.ArrayTest@2c9399a4]" started-at="2022-10-21T14:18:23 EDT" name="arrayList" data-provider="codeInput" finished-at="2022-10-21T14:18:25 EDT" duration-ms="2541" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print('Hello, Testing array pages...')]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrayList -->
+        <test-method signature="arraybasiuc(java.lang.String)[pri:3, instance:Testcases.ArrayTest@2c9399a4]" started-at="2022-10-21T14:18:25 EDT" name="arraybasiuc" data-provider="codeInput" finished-at="2022-10-21T14:18:33 EDT" duration-ms="7643" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print('Hello, Testing array pages...')]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arraybasiuc -->
+        <test-method signature="arrayapp(java.lang.String)[pri:4, instance:Testcases.ArrayTest@2c9399a4]" started-at="2022-10-21T14:18:33 EDT" name="arrayapp" data-provider="codeInput" finished-at="2022-10-21T14:18:39 EDT" duration-ms="6591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print('Hello, Testing array pages...')]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrayapp -->
+        <test-method signature="arrayPracQ(java.lang.String)[pri:5, instance:Testcases.ArrayTest@2c9399a4]" started-at="2022-10-21T14:18:39 EDT" name="arrayPracQ" data-provider="codeInput" finished-at="2022-10-21T14:18:42 EDT" duration-ms="2427" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print('Hello, Testing array pages...')]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrayPracQ -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.ArrayTest@2c9399a4]" started-at="2022-10-21T14:18:42 EDT" name="teardown" finished-at="2022-10-21T14:18:42 EDT" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.ArrayTest -->
+      <class name="Testcases.LandingPageTest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:Testcases.LandingPageTest@302c971f]" started-at="2022-10-21T14:17:27 EDT" name="initialization" finished-at="2022-10-21T14:17:32 EDT" duration-ms="4585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="landingtest()[pri:0, instance:Testcases.LandingPageTest@302c971f]" started-at="2022-10-21T14:17:32 EDT" name="landingtest" finished-at="2022-10-21T14:17:32 EDT" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingtest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.LandingPageTest@302c971f]" started-at="2022-10-21T14:17:32 EDT" name="teardown" finished-at="2022-10-21T14:17:32 EDT" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.LandingPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- dsalgo -->
+</testng-results>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="DataStructureTab.datastructurepage1">
+        <methods>
+          <include name="initialization"/>
+          <include name="teardown"/>
+          <include name="verifytitle"/>
+        </methods>
+      </class> <!-- DataStructureTab.datastructurepage1 -->
+      <class name="DataStructureTab.datastructurepage2">
+        <methods>
+          <include name="initialization"/>
+          <include name="teardown"/>
+          <include name="verifytitle"/>
+        </methods>
+      </class> <!-- DataStructureTab.datastructurepage2 -->
+      <class name="dsalgopages.loginpage">
+        <methods>
+          <include name="initialization"/>
+          <include name="loginpageTitle"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- dsalgopages.loginpage -->
+      <class name="Arrays.arraypage1">
+        <methods>
+          <include name="RegisterPageTitle"/>
+          <include name="initialization"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- Arrays.arraypage1 -->
+      <class name="dsalgopages.HomePage">
+        <methods>
+          <include name="initialization"/>
+          <include name="teardown"/>
+          <include name="verifytitle"/>
+        </methods>
+      </class> <!-- dsalgopages.HomePage -->
+      <class name="dsalgopages.RegisterPage">
+        <methods>
+          <include name="initialization"/>
+          <include name="teardown"/>
+          <include name="RegisterPageTitle"/>
+        </methods>
+      </class> <!-- dsalgopages.RegisterPage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
